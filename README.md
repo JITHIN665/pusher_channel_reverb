@@ -15,7 +15,7 @@ to add the plugin to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  pusher_channel_reverb_flutter: '^1.0.0'
+  pusher_channel_reverb_flutter: '^1.0.1'
 ```
 
 
