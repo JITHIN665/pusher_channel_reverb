@@ -1,4 +1,4 @@
-// ignore_for_file: non_constant_identifier_names
+// ignore_for_file: non_constant_identifier_names, prefer_generic_function_type_aliases
 
 @JS()
 library core.utils.timers.scheduling;
